@@ -1,0 +1,32 @@
+@media (max-width:380px){
+    body{
+        width: 190% ;
+    }
+}
+
+@media (max-width: 425px){
+    body{
+        width: 166% ;
+    }
+}
+
+@media (max-width:330px){
+    body{
+        width: 219%;
+    }
+}
+
+@media(max-width: 765px){
+    body{
+        width: 215%;
+    }
+    main h1{
+        font-size: 30px;
+    }
+    
+    .img img{
+        object-fit: fill;
+        width: 580px;
+        height: 366px;
+    }
+}
